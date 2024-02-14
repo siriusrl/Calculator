@@ -14,6 +14,8 @@ body{
     justify-content: center;
     background: rgb(49, 45, 45);
     background-image: url(backgroundimgdark.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container{
